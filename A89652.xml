@@ -1,0 +1,537 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from the Lowe-Countreys or Podex his encomium. Held out for publick information. By Mercurius Lepidus.</title>
+            <author>Lepidus, Mercurius.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89652</idno>
+            <idno type="STC">Wing N1009</idno>
+            <idno type="STC">Thomason E1372_2</idno>
+            <idno type="STC">ESTC R209342</idno>
+            <idno type="EEBO-CITATION">99868225</idno>
+            <idno type="PROQUEST">99868225</idno>
+            <idno type="VID">169867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169867)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1372[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from the Lowe-Countreys or Podex his encomium. Held out for publick information. By Mercurius Lepidus.</title>
+                  <author>Lepidus, Mercurius.</author>
+               </titleStmt>
+               <extent>[2], 10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W:N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "ffeb. 20."; 2 in imprint date crossed through and a "1" written along side.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169867:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>NEWS FROM THE LOWE-COUNTREYS.</p>
+            <p>
+               <hi>OR, Podex</hi> his Encomium.</p>
+            <p>HELD OUT For publick Information.</p>
+            <p>BY <hi>MERCVRIVS LEPIDVS.</hi>
+            </p>
+            <p>
+               <hi>Nulla cruenta canunt, caveas at, candide Lector, Carmina ni madidas dent tibi noſtra genas.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W:N.</hi> 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169867:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>
+               <hi>M. L.</hi> TO THE READER.</head>
+            <l>
+               <hi>SEnts</hi> are in Things, not Words. A Roſe, or Pinck</l>
+            <l>Hath no ſweet ſmell; nor hath a — a ſtink</l>
+            <l>In the bare Name: leſſe, when the name doth lurk,</l>
+            <l>Wrapt in clean Linen, and lets <hi>Fancie</hi> work.</l>
+            <l>It will not, then, I hope, offend thy Noſe,</l>
+            <l>I praiſe Him, here, that breathes within thy Hoſe.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:169867:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>PODEX HIS ENCOMIUM.</head>
+            <lg>
+               <l>OF <hi>Microcoſme</hi> his chiefeſt Baſe</l>
+               <l>
+                  <hi>Don Podex</hi> hight, and of his Race,</l>
+               <l>His Honour, Qualities, and Parts,</l>
+               <l>And of his many Slights and Arts,</l>
+               <l>I mean to ſing. Great <hi>A-jax,</hi> Thou</l>
+               <l>That know'ſt his Matter, Mould, and how</l>
+               <l>His Humour flows, inſpire my Quill,</l>
+               <l>That, to this Age, it may diſtill,</l>
+               <l>Of its long clowded Excellence,</l>
+               <l>A Lick, to ſeaſon ev'ry ſence.</l>
+            </lg>
+            <lg>
+               <l>When, firſt, the firſt confuſed Maſſe</l>
+               <l>Did, from its miſh-maſh medly, paſſe</l>
+               <l>To thoſe foure ſegregated forms,</l>
+               <l>Whoſe re-commixture now informs</l>
+               <l>And, Being, gives to whatſoere</l>
+               <l>Subſiſts in this Terreſtriall Sphear.</l>
+               <l>And that the Arch-Theeſ's ſtollen Fire</l>
+               <l>Did, firſt, the Thing, call'd Man, inſpire,</l>
+               <pb n="2" facs="tcp:169867:3"/>
+               <!-- PDF PAGE 93 -->
+               <l>
+                  <hi>Podex</hi> then breath'd. His ſhape moſt rare,</l>
+               <l>For tis not ovall, long, or ſquare,</l>
+               <l>Trigonall, or Pentagonall,</l>
+               <l>Or any of the Gones at all,</l>
+               <l>But pure <hi>Orbicular:</hi> And ſo</l>
+               <l>As an Ecliptick Line doth go,</l>
+               <l>To the Autartick Pole, and frames</l>
+               <l>Two <hi>ſemi Rotunds;</hi> But Oakes names</l>
+               <l>Them Ho-riſe-on-tailes. Wondrous fair</l>
+               <l>Is his Complexion, for the Air</l>
+               <l>Doth ſeldome nip it, or the Sun</l>
+               <l>Give it a kiſſe, to make it dun.</l>
+               <l>His Dreſſe is of as many kindes,</l>
+               <l>As there are Nations, Modes, and Mindes,</l>
+               <l>Sometimes, forſooth, the <hi>Spaniſh</hi> Hoſe</l>
+               <l>Doth trick him up, and there He goes;</l>
+               <l>The <hi>French</hi> Trunck ſometimes doth him houſe</l>
+               <l>The <hi>Dutch</hi> Slopp, and the <hi>Iriſh</hi> Trouſe,</l>
+               <l>(That beſt his juſt proportion ſhowes)</l>
+               <l>The <hi>Scottiſh Brackin,</hi> (O my Toes!)</l>
+               <l>The German, Dane, the Swiſſer-cut,</l>
+               <l>And thouſands more, together put,</l>
+               <l>In rank and file, of no mean worth,</l>
+               <l>Do all contend to ſet him forth.</l>
+               <l>But above all, (and ſomewhat more)</l>
+               <l>The Shees, from ten, to twice two ſcore,</l>
+               <l>And upwards yet, moſt caſt about</l>
+               <l>How they may make him fllaunt it out:</l>
+               <pb n="3" facs="tcp:169867:3"/>
+               <!-- PDF PAGE 93 -->
+               <l>And take it in a high diſdain,</l>
+               <l>He ſhould walk forth without a Train;</l>
+               <l>Which cloſe ſtill at his heels muſt wait,</l>
+               <l>For his more Glory, Pomp, and State.</l>
+            </lg>
+            <lg>
+               <l>Now though indeed, he hath reſort</l>
+               <l>In ev'ry Place, (for Camp, and Court,</l>
+               <l>The Countrey, City knows him well)</l>
+               <l>Yet he is chiefly pleaſ'd to dwell</l>
+               <l>In the Low-Countries, mong the Crew</l>
+               <l>of Fat-chops, of the pureſt hue.</l>
+            </lg>
+            <lg>
+               <l>This <hi>Podex</hi> is in fame, ſo great</l>
+               <l>All Callings grace him with a Seat,</l>
+               <l>What Syn'drim, Synod, Senat, State</l>
+               <l>Without him ere in Councell ſate?</l>
+               <l>What Courts of Conſcience, Criminall,</l>
+               <l>Pleas Common, Chequer, Admirall</l>
+               <l>Do ſentence give on That, or This,</l>
+               <l>But <hi>Podex</hi> an Aſſeſſor is?</l>
+               <l>What Conclave can, or Caball be,</l>
+               <l>What Conventicle, Committee</l>
+               <l>Doth hold, or meet, but <hi>Podex,</hi> there,</l>
+               <l>Before all others, takes the Chaire?</l>
+               <l>What publick ſhow, what Maſque, or Play,</l>
+               <l>Ball, Banquet, Feaſt, Wake, Games of <hi>May;</hi>
+               </l>
+               <l>Are ſolemnis'd, for ſport, or grace,</l>
+               <l>But <hi>Podex</hi> ſtill is firſt in place?</l>
+            </lg>
+            <lg>
+               <l>Yet though we thus, of <hi>Podex</hi> ſpeak,</l>
+               <l>Miſtake him not, or think him weak</l>
+               <pb n="4" facs="tcp:169867:4"/>
+               <!-- PDF PAGE 94 -->
+               <l>In Spirit, as if only made</l>
+               <l>For Paſtimes; or that duller trade</l>
+               <l>Cal'd Contemplation, that preſents</l>
+               <l>Language for Launces; Tubs for Tents.</l>
+               <l>No, No; The higheſt Feats of Armes,</l>
+               <l>The hotteſt Conflicts, and Alarmes</l>
+               <l>Of thundring <hi>Mars, Bellona</hi> fierce</l>
+               <l>Are not without him. To rehearſe</l>
+               <l>His active Fortitude, would ſpend</l>
+               <l>Quills to the ſtumps, and yet not end.</l>
+               <l>What private challenge, Duell, Fray,</l>
+               <l>Doth paſſe without him? What Array</l>
+               <l>Of Warre; what March by Day or Night,</l>
+               <l>What Skermiſh, Battell, Onflat, Fight</l>
+               <l>By Sea, or Land; What Citty ſtorm'd;</l>
+               <l>What Fort befieged; What Deed perform'd</l>
+               <l>Of noted Fame, in Trenches, Grafts,</l>
+               <l>At Breaches, Turnepicks, Bridges, Rafts,</l>
+               <l>Mines, Sconces, Paſſes, any where,</l>
+               <l>But gallant <hi>Podex</hi> ſtill is there?</l>
+               <l>What Plot, Deſign of any ſize,</l>
+               <l>What Stratagem, or Enterpriſe,</l>
+               <l>Whether in Parties, or alone,</l>
+               <l>But daring <hi>Podex</hi> ſtill is one?</l>
+               <l>What need more on this Point to tarry?</l>
+               <l>
+                  <hi>Podez</hi> is an Ubiquitarry.</l>
+            </lg>
+            <lg>
+               <l>Yet further to enlarge his Praiſe</l>
+               <l>(Which well deſerves, and wears the Bayſe)</l>
+               <pb n="5" facs="tcp:169867:4"/>
+               <!-- PDF PAGE 94 -->
+               <l>Know, <hi>Podex</hi> is of ſuch high ſway</l>
+               <l>That Kings, when he Commands, obey:</l>
+               <l>Princes, Lords, Ladies muſt do ſo,</l>
+               <l>And, where he bids, not ſend, but go</l>
+               <l>Themſelves in Perſon, and no boot</l>
+               <l>For them to ſcorn to trudge a foot.</l>
+               <l>Coach, Horſe, Sedan, and of that kind,</l>
+               <l>All other Knacks muſt ſtay behind.</l>
+               <l>
+                  <hi>Podex</hi> is mighty, ſtout, and ſtrong</l>
+               <l>To baffle All, would do him wrong.</l>
+               <l>
+                  <hi>Podex</hi> is in ſo high requeſt,</l>
+               <l>That each one ſtrives to pleaſe him beſt.</l>
+               <l>Is <hi>Podex</hi> out of tune, pray tell,</l>
+               <l>Who ſpares for Coſt, to make him Well?</l>
+               <l>Is <hi>Podex</hi> foul, what Dame ſo nice,</l>
+               <l>Will ſcorn to wipe him once, or twice?</l>
+               <l>Whom <hi>Podex</hi> once but takes to favour</l>
+               <l>
+                  <hi>Podex,</hi> in loſſe, makes him a Savour.</l>
+               <l>
+                  <hi>Podex,</hi> with ev'ry Sex, and Sort</l>
+               <l>Of People, hath a lowd Report.</l>
+               <l>
+                  <hi>Podex</hi> is of an humble Mind,</l>
+               <l>Steps not before, but comes behind,</l>
+               <l>
+                  <hi>Podex</hi> yet ſtandeth bare to None</l>
+               <l>But to ſtrong-ſented <hi>Ajax's</hi> throne.</l>
+            </lg>
+            <lg>
+               <l>Should I of all his Places ſpeak,</l>
+               <l>Pen, Inck, and Paper were to weak.</l>
+               <l>What Houſe of Office in the Land,</l>
+               <l>But <hi>Podex,</hi> therein, hath Command?</l>
+               <pb n="6" facs="tcp:169867:5"/>
+               <!-- PDF PAGE 95 -->
+               <l>
+                  <hi>Podex,</hi> a Statiſt, much of Note,</l>
+               <l>Doth in all Privy-Councells Vote.</l>
+               <l>
+                  <hi>Podez</hi> a Judg is, that decrees,</l>
+               <l>Without reſpects, or bribes, or fees,</l>
+               <l>A <hi>Habeas Corpus,</hi> on a pain</l>
+               <l>None ere incur'd without a Stain.</l>
+               <l>
+                  <hi>Podex</hi> is Doctor of the Chair,</l>
+               <l>And where he ſpeaks hold your Tongue there.</l>
+               <l>
+                  <hi>Podex</hi> a Lawyer is, your Caſe</l>
+               <l>Can clear at any Time and Place.</l>
+               <l>And when occaſion rightly needs</l>
+               <l>In Fee-tail beſt can draw your Deeds.</l>
+               <l>
+                  <hi>Podex's</hi>-a <hi>Herald, Aeolus,</hi>
+               </l>
+               <l>By him, Proclaims his Heſts to us,</l>
+               <l>From his <hi>Culabrian</hi> ſnowy Cliff,</l>
+               <l>A <hi>Zone</hi> more hot then <hi>Teneriff.</hi>
+               </l>
+               <l>
+                  <hi>Podex</hi> is a Phiſitian, much</l>
+               <l>Cures Collicks, Belly-Ach, and ſuch.</l>
+               <l>
+                  <hi>Podex</hi> a Souldier is, doth keep</l>
+               <l>His Watch and Rounds whilſt you do ſleep.</l>
+               <l>
+                  <hi>Podex's a</hi> Sergeant, whoſe Arreſt</l>
+               <l>Admits no Bayle, To go is beſt.</l>
+            </lg>
+            <lg>
+               <l>But by the way, ere I proced</l>
+               <l>With <hi>Podex</hi> further, let his Seed,</l>
+               <l>His Brood, his Off-ſpring, Iſſue, be</l>
+               <l>Made known to You. Yet (let me ſee)</l>
+               <l>It is ſo numerous, ſo great,</l>
+               <l>So ſtrange, ſo divers to repeat,</l>
+               <pb n="7" facs="tcp:169867:5"/>
+               <!-- PDF PAGE 95 -->
+               <l>That ſhould I go this task about</l>
+               <l>I ne'r ſhould find a clean way out.</l>
+               <l>Take Notice only, for his grace,</l>
+               <l>That that which takes the chiefeſt place,</l>
+               <l>As moſt in power, ſtrength, and Senſe,</l>
+               <l>A Knight is, cal'd, Sir Reverence.</l>
+            </lg>
+            <lg>
+               <l>Come to his Parts. Can any dance</l>
+               <l>The <hi>Spaniſh</hi> Pavin, tricks of <hi>France,</hi>
+               </l>
+               <l>The <hi>Scottiſh</hi> Jigg, the <hi>Iriſh</hi> Trot,</l>
+               <l>And thouſands more: And <hi>Podex</hi> not?</l>
+               <l>Can any fence, or vault, or ride,</l>
+               <l>But <hi>Podex,</hi> there, is in his Pride?</l>
+               <l>
+                  <hi>Podex</hi> a Linguiſt is, affects</l>
+               <l>To ſpeak in ſundry Dialects.</l>
+               <l>
+                  <hi>Podex</hi> is verſ'd, in Grammar, Well,</l>
+               <l>His ev'ry Part of Speech can tell:</l>
+               <l>Knows all his Rules, among the reſt,</l>
+               <l>
+                  <hi>Eaſe in praeſenti,</hi> likes him beſt.</l>
+               <l>And Priſcian (be it no diſgrace)</l>
+               <l>Dares hardly lok him in the face.</l>
+               <l>
+                  <hi>Podex</hi> in Ret'rick hath a Vein</l>
+               <l>Oft utt'ring in a fluent ſtrain.</l>
+               <l>His Elocutions Excellence</l>
+               <l>The object is of ev'ry Senſe.</l>
+               <l>You may there, taſte, touch, ſmell, ſee, hear:</l>
+               <l>The Scholemen but affect the Ear.</l>
+               <l>
+                  <hi>Podex,</hi> in Logick, is profound,</l>
+               <l>His Syllogiſmes are ſtrong, and ſound.</l>
+               <pb n="8" facs="tcp:169867:6"/>
+               <!-- PDF PAGE 96 -->
+               <l>
+                  <hi>Feſtino</hi> a main Figure is</l>
+               <l>He loves, and ſometimes<note n="*" place="margin">Diſamis</note> Does-amiſſe.</l>
+               <l>His force doth in <hi>Bocardo</hi> lye;</l>
+               <l>And bears all out with,<note n="*" place="margin">Datiſt.</note> That—is—I.</l>
+               <l>Muſick doth <hi>Podex</hi> ſo delight,</l>
+               <l>He ſings by Day, he ſings by Night;</l>
+               <l>He ſings with All, in ev'ry Place,</l>
+               <l>All kind of Parts; His chief is Baſe.</l>
+               <l>Knows Thirds, Fifths, Eights, Reſts, Mood and Time:</l>
+               <l>His Gam-ut can deſcend and climb.</l>
+               <l>If to Arithmetick you come,</l>
+               <l>
+                  <hi>Podex</hi> can caſt, can clear a ſumme.</l>
+               <l>Adde, Multiply, Subſtract, Divide;</l>
+               <l>Work ſtill to the Siniſter ſide.</l>
+               <l>The Rules of Fellowſhip, of Three,</l>
+               <l>And more to him familiar be.</l>
+               <l>
+                  <hi>Podex</hi> is for Geometry,</l>
+               <l>Showes <hi>Area,</hi> ſhows <hi>Periphery.</hi>
+               </l>
+               <l>Shows Circle, Center, Parallels;</l>
+               <l>Showes the Diameter, (that tells</l>
+               <l>How to ſplit juſtly Rounds in Two:)</l>
+               <l>And ſhowes you more the I will do.</l>
+               <l>Talk of Aſtronomie, and there</l>
+               <l>
+                  <hi>Podex</hi> excells; Diſplayes the Sphere,</l>
+               <l>Its Motions, Conſtellations, Range,</l>
+               <l>Eclipſes, Changes: Shows (O ſtrange!)</l>
+               <l>The Smooth-fac'd Twins, the milky way,</l>
+               <l>The Pole, the Line, and ſuch as they.</l>
+               <pb n="9" facs="tcp:169867:6"/>
+               <!-- PDF PAGE 96 -->
+               <l>hall not then <hi>Podex</hi> for his parts</l>
+               <l>Be ſtiled Maſter in the Arts?</l>
+               <l>Nay rather make their number even,</l>
+               <l>By adding <hi>Podex</hi> to the Seven.</l>
+               <l>
+                  <hi>Podex</hi> is Liberall, and may</l>
+               <l>Better be called, Arſe, then They.</l>
+            </lg>
+            <lg>
+               <l>Something of <hi>Podex</hi> yet I find,</l>
+               <l>Of no ſmall Moment, left behind,</l>
+               <l>His Slights and Arts. But who ſhould tell,</l>
+               <l>All, would a Volumne vaſtly Swell.</l>
+               <l>True Symmetrie, 'tis truly Sed,</l>
+               <l>Will, by the Foot, deſcribe the Head.</l>
+               <l>It ſhall ſuffice, that, by a Spole,</l>
+               <l>A Senſe acute may ſent the Hole.</l>
+               <l>
+                  <hi>Podex</hi> an Archer is, of Thoſe</l>
+               <l>That aim at Heel, and hit the Noſe.</l>
+               <l>
+                  <hi>Podox</hi> is a Perfumer, vents</l>
+               <l>Strong, and of ſundry ſorts of Sents.</l>
+               <l>
+                  <hi>Podex</hi> a Painter is, can lay</l>
+               <l>Colours, as well By Night as Day.</l>
+               <l>
+                  <hi>Podex</hi> is a rare <hi>Pilot,</hi> knows</l>
+               <l>Whence the Wind comes, and where it blows.</l>
+               <l>Is for all weathers, ſometimes ſayles</l>
+               <l>With gentle, ſometimes bluſt'ring Gales.</l>
+               <l>His ſteddy Courſe doth ſeldome ſtoop,</l>
+               <l>For he hath ſtill the Wind in Poop.</l>
+               <l>
+                  <hi>Podex</hi>'s a Husbandman, can ſoyl</l>
+               <l>His Ground with eaſe when others toyl.</l>
+               <pb n="10" facs="tcp:169867:7"/>
+               <!-- PDF PAGE 97 -->
+               <l>
+                  <hi>Podex</hi> a Tucker is, and knows</l>
+               <l>A ſpeedy way to thicken Cloathes.</l>
+               <l>
+                  <hi>Podex</hi>'s a Chandler, and you may</l>
+               <l>Fetch much-Turd there, freſh ev'ry Day.</l>
+               <l>
+                  <hi>Podex</hi> a Trumpeter is too,</l>
+               <l>And blows as ſtrong as you can do.</l>
+               <l>
+                  <hi>Podex</hi> is, — Nay I fain would know,</l>
+               <l>What <hi>Podex</hi> is not? Which to ſhow</l>
+               <l>But in the Negative, would more</l>
+               <l>Puzle the Brain, then what, before,</l>
+               <l>Of him is ſaid. In this, conclude,</l>
+               <l>That High, and Low, the fil'd, the rude,</l>
+               <l>The rich, the poor, the foul, the faire,</l>
+               <l>The-All the World, his Vaſſals are.</l>
+               <l>Who dares withſtand his force and might</l>
+               <l>If once he ſayes, You muſt go—Walk?</l>
+               <l>
+                  <hi>Podex</hi> then only doth ſurmount,</l>
+               <l>
+                  <hi>Podex</hi> is ſole Lord Paramount.</l>
+               <l>
+                  <hi>Podex</hi> ſtill mones within his Sphere;</l>
+               <l>
+                  <hi>Podex</hi> is <hi>Podex</hi> ev'ry where.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Podex</hi> ſhall breathe in ſpite of Fate,</l>
+               <l>While Tails do croake, and Tongues do prate.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169867:7"/>
+            <!-- PDF PAGE 97 -->
+            <head>PODEX His Vindication.</head>
+            <l>IF carping <hi>Momes</hi> ſhall flurt in <hi>Podex</hi>'s face</l>
+            <l>A Flout, to blur his Matter with Diſgrace:</l>
+            <l>
+               <hi>Podex,</hi> with a full Breath, reflurts it back</l>
+            <l>Into their Teeth, that ſo much wit do lack.</l>
+            <l>Sence queinter Pens have not diſdain'd the grain</l>
+            <l>Of ſtuffs as courſe as this: And, to this ſtrain,</l>
+            <l>The Prince of modern <hi>Engliſh</hi> Poets hath,</l>
+            <l>In his, term'd, <hi>Famous Voyage,</hi> trac'd a Path.</l>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169867:8"/>
+            <!-- PDF PAGE 98 -->
+            <head>M. L. His Salutiferous Advice to the Feminine Gender.</head>
+            <lg>
+               <l>VVHen <hi>Podex</hi> ſtout ſhall ceaſe to ſpeak.</l>
+               <l>Then, not before, your Hearts will break.</l>
+               <l>Take therefore care (you Simp'ring Ones)</l>
+               <l>He ſtill may breathe long-winded Tones.</l>
+               <l>No Muſick, were it of the Spheres,</l>
+               <l>Can, with like Raptures, charme your Ears.</l>
+               <l>No Eaſtern Sweets, or Fragrant Roſe</l>
+               <l>Can more affect, and catch your Noſe.</l>
+               <l>Theſe only pleaſe th' Externall Senſe:</l>
+               <l>Thoſe have intrinſick Excellence.</l>
+               <l>They oft let looſe, where you are bound:</l>
+               <l>And, if diſtemper'd, make you ſound.</l>
+               <l>
+                  <hi>Podex,</hi> your Minion, charg'd, will give</l>
+               <l>True ſtrong Reports, That ſtill you live.</l>
+            </lg>
+            <lg>
+               <l>Which if ſome chance to take in ſnuff,</l>
+               <l>Cry, <hi>Cladius,</hi> and it is enough.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
